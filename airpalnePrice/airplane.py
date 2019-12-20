@@ -14,7 +14,7 @@ class Calendar(QWidget):
 	def __init__(self):
 		super().__init__()
 
-		self.setWindowTitle('파이리와 솨의 행복회로 ><')
+		self.setWindowTitle('종강하고 여행가자!')
 		self.resize(700, 700)
 		self.sortKey = 'Low Price'
 

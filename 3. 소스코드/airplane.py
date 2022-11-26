@@ -3,7 +3,7 @@ from PyQt5.QtCore import Qt, QDate
 from PyQt5.QtWidgets import *
 from PyQt5.QtGui import *
 from datetime import datetime
-
+]
 from schedule import Schedule
 from dicts import airportdic, airlinedic
 
